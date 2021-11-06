@@ -1,7 +1,7 @@
 # COVID-19-Exploratory-Data-Analysis
 
 
-I this Repostitory I have done some Analysis on Covid dataset, make future 30 days prediction using FBProphet and answered all the below questions :-
+I this Repostitory I have done Analysis on Covid dataset, make future 30 days prediction using FBProphet and answered all the below questions :-
 
 1.) Find the country/countries with most number of deaths and cases and also provide the values for the same.
 
